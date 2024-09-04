@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0b96e574529f9c42b478a1a5e40e307, type: 3}
+  m_Name: SalaryBaseAmounts
+  m_EditorClassIdentifier: 
+  baseSalaryAmmountsList:
+  - charge: 0
+    baseSalaryBySeniority:
+    - seniority: 2
+      value: 500
+    - seniority: 1
+      value: 1000
+    - seniority: 0
+      value: 1500
+  - charge: 1
+    baseSalaryBySeniority:
+    - seniority: 2
+      value: 1500
+    - seniority: 1
+      value: 1000
+    - seniority: 0
+      value: 5000
+  - charge: 2
+    baseSalaryBySeniority:
+    - seniority: 1
+      value: 1200
+    - seniority: 0
+      value: 2000
+  - charge: 3
+    baseSalaryBySeniority:
+    - seniority: 2
+      value: 800
+    - seniority: 0
+      value: 2000
+  - charge: 4
+    baseSalaryBySeniority:
+    - seniority: 1
+      value: 2400
+    - seniority: 0
+      value: 4000
+  - charge: 5
+    baseSalaryBySeniority:
+    - seniority: 0
+      value: 2000

@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryManager", "SalaryManager.csproj", "{f0bcfff7-3b7d-476e-799a-c1ea5b910d0d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests.csproj", "{f71744e0-359a-4af2-c118-e74803097f2e}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f0bcfff7-3b7d-476e-799a-c1ea5b910d0d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f0bcfff7-3b7d-476e-799a-c1ea5b910d0d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f71744e0-359a-4af2-c118-e74803097f2e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f71744e0-359a-4af2-c118-e74803097f2e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

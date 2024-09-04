@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17010468_002D6232_002D4489_002D963d_002D2e26f144c52c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GenerateEmployeeList_ShouldGenerateEmployeesCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F71744E0-359A-4AF2-C118-E74803097F2E::.NETFramework,Version=v4.7.1::SalaryManagerTests.GenerateEmployeeList_ShouldGenerateEmployeesCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad10b571_002D8c00_002D4926_002D9637_002Dd5ea323a5be5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ApplyRaisesToEachEmployee_ShouldApplyRaisesCorrectly #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F71744E0-359A-4AF2-C118-E74803097F2E::.NETFramework,Version=v4.7.1::SalaryManagerTests.ApplyRaisesToEachEmployee_ShouldApplyRaisesCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c881b00f_002D49f7_002D4d33_002D9e75_002D25733e96e80d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ApplyRaisesToEachEmployee_ShouldApplyRaisesCorrectly #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F71744E0-359A-4AF2-C118-E74803097F2E::.NETFramework,Version=v4.7.1::SalaryManagerTests.ApplyRaisesToEachEmployee_ShouldApplyRaisesCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F71744E0-359A-4AF2-C118-E74803097F2E::.NETFramework,Version=v4.7.1::SalaryManagerTests.GenerateEmployeeList_ShouldGenerateEmployeesCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c98b0f11_002D6394_002D4ace_002D8449_002D613b93c698c9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ApplyRaisesToEachEmployee_ShouldApplyRaisesCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F71744E0-359A-4AF2-C118-E74803097F2E::.NETFramework,Version=v4.7.1::SalaryManagerTests.ApplyRaisesToEachEmployee_ShouldApplyRaisesCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
