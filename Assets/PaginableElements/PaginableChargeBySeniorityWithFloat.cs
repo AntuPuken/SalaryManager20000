@@ -21,6 +21,6 @@ public class PaginableChargeBySeniorityWithFloat : PaginableElement<ChargeBySeni
 
     protected override void OnDataUpdated(ChargeBySeniorityWithFloatValueElementData employeesElementData)
     {
-        employeeUI.Initialize(employeesElementData.Charge, employeesElementData.seniority);
+        employeeUI.Initialize(employeesElementData.charge, employeesElementData.seniority);
     }
 }
