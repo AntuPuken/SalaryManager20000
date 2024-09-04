@@ -2,3 +2,5 @@
 * text=auto
 Library/PackageCache/com.unity.burst@1.8.12/Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
 Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.9/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
